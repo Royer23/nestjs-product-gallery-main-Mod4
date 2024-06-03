@@ -2,7 +2,7 @@
 # Product Gallery API
 
 Esta es una API para gestionar una galería de productos utilizando NestJS, Prisma, SQLite y JWT para la autenticación. La API permite crear, leer, actualizar y eliminar productos, con rutas protegidas para la creación y edición de productos.
-
+Se agrego una funcion para permitir peticiones desde el puerto 8080.
 ## Requisitos
 
 - Node.js (versión 20 o superior)
