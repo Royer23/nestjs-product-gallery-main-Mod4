@@ -12,11 +12,8 @@ Se agrego una funcion para permitir peticiones desde el puerto 8080.
 
 Sigue los pasos a continuación para instalar y ejecutar la aplicación:
 
-1. Clonar el repositorio:
-    ```bash
-    git clone git@github.com:IonVillarreal/product-gallery.git
-    cd product-gallery
-    ```
+1. Descargar el repositorio:
+    
 
 2. Instalar las dependencias:
     ```bash
